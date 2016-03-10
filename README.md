@@ -1,2 +1,1 @@
-# project_2
-Lập trình web du lịch
+# Làm Project_2 với sự trợ giúp của Github
